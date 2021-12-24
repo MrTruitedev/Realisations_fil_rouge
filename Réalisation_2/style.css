@@ -1,12 +1,18 @@
 header{
-    background: orangered no-repeat top;
-    text-align: center;
     color: cadetblue;
 }
-.col{
-    text-align: right;
+h1{
+    text-align: center;
+}
+span{
+    text-align: center;
 }
 nav {
     
     text-align: left;
+}
+
+body{
+    background-image: radial-gradient(at top left, rgb(211, 163, 75), rgb(196, 65, 26));
+    background-repeat: no-repeat;
 }
